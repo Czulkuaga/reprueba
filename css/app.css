@@ -1,0 +1,13 @@
+body{
+    background-color: #DEDEDE;
+}
+/* Ctr + s */
+/* body p{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+} */
+
+.text{
+    font-weight: 500;
+}
